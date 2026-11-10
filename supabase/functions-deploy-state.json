@@ -1,0 +1,13 @@
+{
+  "projectId": "72798965",
+  "functions": {
+    "research-events": {
+      "hasChanged": false,
+      "hash": "d834a6b4a1aefc7ced01e2fe337635e376336552deabd75ebba60a5d81c82ba6"
+    },
+    "research-orchestrator": {
+      "hasChanged": false,
+      "hash": "db896da474eb5dbe8eb647101237384750024fe0751df2897718e8826f9894cd"
+    }
+  }
+}

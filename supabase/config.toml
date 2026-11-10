@@ -1,0 +1,7 @@
+[functions.research-orchestrator]
+verify_jwt = false
+entrypoint = "./functions/research-orchestrator/index.ts"
+
+[functions.research-events]
+verify_jwt = false
+entrypoint = "./functions/research-events/index.ts"
